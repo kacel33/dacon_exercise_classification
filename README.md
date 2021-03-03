@@ -5,7 +5,7 @@
 데이터는 dacon 홈페이지에서 얻을 수 있습니다.
 https://dacon.io/competitions/official/235689/data/
 
-###### 대회 참여가 좀 늦었는데  남은 기간이 1/3일 때 참여하였습니다.
+#### 대회 참여가 좀 늦었는데  남은 기간이 1/3일 때 참여하였습니다.
 처음 단순한 LSTM 모델 베이스라인을 돌려보니 등수가 굉장히 낮았고
 LSTM으로 parameter를 바꿔서 몇 번 돌려봤는데도 점수가 굉장히 낮았습니다.
 그래서 구글에 검색 중에 multivariate time series classification을 검색하여 LSTM-FCN이란 모델을 알게 되었고,
